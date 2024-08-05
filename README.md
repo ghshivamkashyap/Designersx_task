@@ -2,8 +2,6 @@
 
 Hi Sir,
 
-I hope this email finds you well.
-
 I have completed the technical tasks assigned for the DesignersX selection process. You can find the solutions in the following GitHub repository and the live backend API link:
 
 GitHub Repository: https://github.com/ghshivamkashyap/Designersx_task
