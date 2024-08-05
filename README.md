@@ -12,7 +12,13 @@ Live API: https://designersx-task-server.onrender.com/
 
 Endpoints:
 
-POST /addbook - Create a book
+POST /addbook - Create a book {eg : https://designersx-task-server.onrender.com/addbook }
+
+Req body - {
+    "title": "shivam book 3",
+    "author": "shivam",
+    "year": 2001
+}
 
 GET /books - Get all books {eg : https://designersx-task-server.onrender.com/books }
 
