@@ -24,6 +24,12 @@ GET /books/:id - Get a book by ID {eg : https://designersx-task-server.onrender.
 
 PUT /updatebook/:id - Update a book by ID {eg : https://designersx-task-server.onrender.com/updatebook/1 }
 
+Req body - {
+    "title": "updated book by sahivam",
+    "author": "new book name b2",
+    "year": 2025
+}
+
 DELETE /deletebookbyid/:id - Delete a book by ID {eg : https://designersx-task-server.onrender.com/deletebookbyid/1 }
 
 Please let me know if you have any questions or need further information.
