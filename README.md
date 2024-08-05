@@ -14,13 +14,13 @@ Endpoints:
 
 POST /addbook - Create a book
 
-GET /books - Get all books {eg : https://designersx-task-server.onrender.com/books}
+GET /books - Get all books {eg : https://designersx-task-server.onrender.com/books }
 
-GET /books/:id - Get a book by ID {eg : https://designersx-task-server.onrender.com/books/2}
+GET /books/:id - Get a book by ID {eg : https://designersx-task-server.onrender.com/books/2 }
 
-PUT /updatebook/:id - Update a book by ID {eg : https://designersx-task-server.onrender.com/updatebook/1}
+PUT /updatebook/:id - Update a book by ID {eg : https://designersx-task-server.onrender.com/updatebook/1 }
 
-DELETE /deletebookbyid/:id - Delete a book by ID {eg : https://designersx-task-server.onrender.com/deletebookbyid/1}
+DELETE /deletebookbyid/:id - Delete a book by ID {eg : https://designersx-task-server.onrender.com/deletebookbyid/1 }
 
 Please let me know if you have any questions or need further information.
 
