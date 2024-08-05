@@ -12,10 +12,15 @@ Live API: https://designersx-task-server.onrender.com/
 
 Endpoints:
 POST /addbook - Create a book
+
 GET /books - Get all books
+
 GET /books/:id - Get a book by ID
+
 PUT /updatebook/:id - Update a book by ID
+
 DELETE /deletebookbyid/:id - Delete a book by ID
+
 Please let me know if you have any questions or need further information.
 
 Thank you for the opportunity.
