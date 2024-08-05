@@ -55,7 +55,7 @@ app.post("/addbook", (req, res) => {
       .status(400)
       .json({ error: "Title, author, and year are required" });
   }
-  const book = { id: books.length + 1, title, author, year  };
+  const book = { id: books.length + 1, title, author, year };
   books.push(book);
   res.status(201).end();
 });
